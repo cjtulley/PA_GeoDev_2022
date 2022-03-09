@@ -4,10 +4,12 @@
 Files for the session "Getting Started with the Census Data API in R Using Tidycensus"
 
 What's included:
--PDF and PPT versions of the presentation slides
--R script for demonstration
--Census TIGER tracts shapefile, 2019 vintage
--Additional references in the "\extras" folder.
+<ul>
+<li>PDF and PPT versions of the presentation slides
+<li>R script for demonstration
+<li>Census TIGER tracts shapefile, 2019 vintage
+<li>Additional references in the "\extras" folder.
+</ul>
 
 Enjoy and thank you for attending!
 
